@@ -9,9 +9,9 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 
 FIXME
 
-## Syllabus
+## Lessons
 
-<div id="syllabus" markdown="1">
+<div id="lessons" markdown="1">
 
 1.  [Introduction](./intro/): what this training does and doesn't cover.
 5.  [Conclusion](./finale/): looking back and next steps.
