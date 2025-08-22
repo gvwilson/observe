@@ -1,12 +1,19 @@
 # Bibliography
 
+<span id="Baltes2025">Baltes et al 2025</span>
+:   Sebastian Baltes, Florian Angermeir, Chetan Arora, Marvin Muñoz Barón, Chunyang Chen, Lukas Böhme, Fabio Calefato, Neil Ernst, Davide Falessi, Brian Fitzgerald, Davide Fucci, Marcos Kalinowski, Stefano Lambiase, Daniel Russo, Mircea Lungu, Lutz Prechelt, Paul Ralph, Christoph Treude, and Stefan Wagner:
+    "Evaluation Guidelines for Empirical Studies in Software Engineering involving LLMs".
+    2025,
+    arXiv:2508.15503,
+    https://arxiv.org/abs/2508.15503.
+
 <span id="Beller2021">Beller et al 2021</span>
 :   Moritz Beller, Vince Orgovan, Spencer Buja, and Thomas Zimmermann:
     "Mind the Gap: On the Relationship Between Automatically Measured and Self-Reported Productivity"
     *IEEE Software*,
     38(5),
     2021,
-    10.1109/MS.2020.3048200.
+    doi:10.1109/MS.2020.3048200.
 
 <span id="Czerwinski2003">Czerwinski et al 2003</span>
 :   Mary Czerwinski, Greg Smith, Tim Regan, Brian Meyers, George G. Robertson, and Gary K. Starkweather:
@@ -21,7 +28,7 @@
     *ACM Queue*,
     19(1),
     2021,
-    10.1145/3454122.3454124.
+    doi:10.1145/3454122.3454124.
 
 <span id="Hicks2024">Hicks et al 2024</span>
 :   Catherine M. Hicks, Carol S. Lee, and Morgan Ramsey:
@@ -29,21 +36,21 @@
     *IEEE Software*,
     41(4),
     2024,
-    10.1109/MS.2024.3382957.
+    doi:10.1109/MS.2024.3382957.
 
 <span id="Meyer2014">Meyer et al 2014</span>
 :   André N. Meyer, Thomas Fritz, Gail C. Murphy, and Thomas Zimmermann:
     "Software Developers' Perceptions of Productivity"
     *FSE'14*,
     2014,
-    10.1145/2635868.2635892.
+    doi:10.1145/2635868.2635892.
 
 <span id="MurphyHill2021">Murphy-Hill et al 2021</span>
 :   Emerson Murphy-Hill, Ciera Jaspan, Caitlin Sadowski, David Shepherd, Michael Phillips, Collin Winter, Andrea Knight, Edward Smith and Matthew Jorde:
     "What Predicts Software Developers' Productivity?"
     *IEEE Trans. Software Engineering*,
     47(3),
-    10.1109/TSE.2019.2900308.
+    doi:10.1109/TSE.2019.2900308.
 
 <span id="Noda2023">Noda 2023</span>
 :   Abi Noda, Margaret-Anne Storey, Nicole Forsgren, and Michaela Greiler:
@@ -51,7 +58,7 @@
     *ACM Queue*,
     21(4),
     2023,
-    10.1145/3595878.
+    doi:10.1145/3595878.
 
 <span id="Prechelt2019">Prechelt 2019</span>
 :   Lutz Prechelt:
@@ -74,12 +81,12 @@
     "Software Development Waste"
     *Proc. ICSE'17*,
     2017,
-    10.1109/ICSE.2017.20.
+    doi:10.1109/ICSE.2017.20.
 
 <span id="Storey2022">Storey et al 2022</span>
 :   Margaret-Anne Storey, Brian Houck, and Thomas Zimmermann:
     "How Developers and Managers Define and Trade Productivity for Quality"
     *Proc. CHASE'22*,
     2022,
-    10.1145/3528579.3529177.
+    doi:10.1145/3528579.3529177.
 
