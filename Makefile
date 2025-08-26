@@ -1,6 +1,6 @@
 # Runnable tasks.
 
-SLUG=productivity
+SLUG=observe
 
 all: commands
 

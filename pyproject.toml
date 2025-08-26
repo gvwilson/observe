@@ -1,6 +1,6 @@
 [project]
-name = "productivity"
-description = "productivity in software engineering"
+name = "observe"
+description = "observability in software engineering"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
