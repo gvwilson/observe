@@ -1,6 +1,16 @@
 # Observability in Software Engineering
 
-FIXME: high-level goals
+-   Plan:
+    -   Teach programmers to distinguish reliable research from plausible punditry
+    -   Use the problem of programmer productivity as the motivating issue
+-   Pro:
+    -   Topical: debates about the impact of AI are vacuous without an understanding of what productivity means
+    -   Motivates study of both qualitative and quantitative methods
+    -   Practical exercises are straightforward to create
+-   Con:
+    -   Medium effort to create
+    -   May be seen as niche:
+        people won't understand observability and productivity are just being used as a working example
 
 All of the material is available under an [open license](./LICENSE.md),
 and contributions through our [repository][repo] are welcome.
@@ -32,7 +42,9 @@ All participants are required to respect our [Code of Conduct](./CODE_OF_CONDUCT
 <div id="lessons" markdown="1">
 
 1.  [Introduction](./intro/)
-5.  [Conclusion](./finale/)
+1.  [Discrete Event Simulation](./des/)
+1.  [A Little Statistics](./stats/)
+1.  [Conclusion](./finale/)
 
 </div>
 
